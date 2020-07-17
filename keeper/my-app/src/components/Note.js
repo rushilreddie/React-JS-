@@ -13,6 +13,6 @@ function Note(props) {
     );
 }
 
-
+app.get("3000")
 
 export default Note;
